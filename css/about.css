@@ -28,3 +28,7 @@ body {
 #navbar_links > ul > li > a {
   color: black;
 }
+
+#headshot {
+  margin-bottom: 20px;
+}
