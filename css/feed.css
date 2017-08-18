@@ -28,3 +28,11 @@ body {
 #navbar_links > ul > li > a {
   color: black;
 }
+
+#post {
+  display: inline-block;
+}
+
+td {
+ padding: 0 15px 0 15px;
+}
